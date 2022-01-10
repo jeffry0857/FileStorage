@@ -1,13 +1,13 @@
 {
-    version: "v1.0",
-    publish: "2021/12/31",
-    titles: [
+    "version": "v1.0",
+    "publish": "2021/12/31",
+    "titles": [
         "Rank",
         "Company Name",
         "Country",
         "MarketingShare"
     ],
-    dara: [
+    "data": [
         { Ranking: 1, Company: "台積電", Country: "台灣", Ratio: "53.1"
         },
         { Ranking: 2, Company: "Samsung", Country: "南韓", Ratio: "17.3"
